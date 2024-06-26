@@ -1,0 +1,35 @@
+.form_section {
+    background: #2a0f45;
+    padding: 70px 0;
+}
+label {
+    display: inline-block;
+    color: #fff;
+    text-transform: capitalize;
+}
+.form-control {
+    text-transform: capitalize;
+    font-size: 12px;
+    padding: 14px 15px;
+    background: white;
+}
+.form-select {
+   
+    font-size: 12px;
+    padding: 14px 15px;
+}
+.btn-submit{
+color: #fff;
+text-transform: capitalize;
+background: #176eae;
+border: 1px solid#176eae;  
+padding: 6px 7px;
+}
+.btn-submit:hover{
+    background: #2d8ed3;   
+    border: 1px solid#2c7fbb;
+    color: #fff;
+}
+.btn-danger {
+    text-transform: capitalize;
+}
